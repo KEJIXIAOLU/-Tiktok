@@ -1,12 +1,16 @@
 # Quantumult X 
 ## iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论
+视频教学：
+
 ## 一、准备工作
 
 - 在App Store下载 TikTok | Quantumult X
-  
-  美区/日区/台区/韩区等 Apple ID、密码 自备
-
 - 自备代理，ss/ssr/vmess等
+
+注册美国苹果ID方法：https://youtu.be/H6GtrR1OFfU
+
+小火箭Shadowrocket下载和使用方法：https://youtu.be/1e7D_SGUAqY
+
 
 ## 二、操作步骤
 - 1、打开Quantumult X
