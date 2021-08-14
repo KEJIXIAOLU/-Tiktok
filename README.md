@@ -9,7 +9,7 @@
 
 注册美国苹果ID方法：https://youtu.be/H6GtrR1OFfU
 
-小火箭Shadowrocket下载和使用方法：https://youtu.be/1e7D_SGUAqY
+Quantumult X下载和使用方法：
 
 
 ## 二、操作步骤
